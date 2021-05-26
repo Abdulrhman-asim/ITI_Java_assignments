@@ -1,0 +1,19 @@
+country code,name,continent,population
+1,Paris,Europe,315
+1,Monaco,Europe,481
+2,Tokyo,Asia,518
+2,Kyoto,Asia,115
+1,Marseille,Europe,479
+1,Lyon,Europe,532
+3,Delhi,Asia,716
+4,Munich,Europe,507
+5,Rome,Europe,097
+1,Lille,Europe,979
+5,Milan,Europe,538
+5,Florence,Europe,804
+5,Venice,Europe,213
+6,Beijing,Asia,541
+6,Shanghai,Asia,626
+7,Madrid,Europe,948
+7,Barcelona,Europe,766
+3,Mumbai,Asia,857
